@@ -1,9 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/cuikeyao/cdn/static/gif/coding.gif" alt="coding..." style="display: block; margin: 0 auto; width: 100%;" />
-
-
-<div style="text-align: center">
-  <img src="https://cdn.jsdelivr.net/gh/cuikeyao/cdn/static/gif/coding.gif" alt="Logo" style="width: 200px;" />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/cuikeyao/cdn/static/gif/coding.gif" alt="coding..." style="display: block; margin: 0 auto;" />
 
 
 <div style="text-align: center">
@@ -17,3 +12,4 @@
 </div>
 
   
+<img src="https://raw.githubusercontent.com/cuikeyao/cuikeyao/output/github-contribution-grid-snake.svg" alt="coding..." style="display: block; margin: 0 auto;" />
