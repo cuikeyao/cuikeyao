@@ -11,5 +11,6 @@
   ![亮色](https://raw.githubusercontent.com/cuikeyao/cuikeyao/output/github-contribution-grid-snake.svg)
 </div>
 
-  
-<img src="https://raw.githubusercontent.com/cuikeyao/cuikeyao/output/github-contribution-grid-snake.svg" alt="coding..." style="display: block; margin: 0 auto;" />
+<div style="text-align: center">
+  <img src="https://raw.githubusercontent.com/cuikeyao/cuikeyao/output/github-contribution-grid-snake.svg" alt="coding..." style="display: block; margin: 0 auto;" />
+</div>
