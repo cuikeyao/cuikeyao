@@ -2,11 +2,8 @@
   <img src="https://cdn.jsdelivr.net/gh/cuikeyao/cdn/static/gif/coding.gif"> 
 </div>
 
-<div style="text-align:center">
-  <img src="https://raw.githubusercontent.com/cuikeyao/cuikeyao/output/github-contribution-grid-snake.svg"> 
-</div>
 
 <div style="text-align:center">
-    <img src="路径/图片.gif" alt="GIF描述">
+  <img src="https://raw.githubusercontent.com/cuikeyao/cuikeyao/output/github-contribution-grid-snake.svg"> 
 </div>
 
