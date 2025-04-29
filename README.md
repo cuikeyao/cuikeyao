@@ -1,7 +1,5 @@
 <div style="text-align: center;">
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/cuikeyao/cdn/static/gif/coding.gif"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/cuikeyao/cdn/static/gif/coding.gif"/>
 </div>
 
 
