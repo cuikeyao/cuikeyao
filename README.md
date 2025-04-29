@@ -1,6 +1,6 @@
 
 <div style="text-align:center">
-    ![coding]("https://cdn.jsdelivr.net/gh/cuikeyao/cdn/static/gif/coding.gif")
+    ![coding](https://cdn.jsdelivr.net/gh/cuikeyao/cdn/static/gif/coding.gif)
 </div>
 
 
