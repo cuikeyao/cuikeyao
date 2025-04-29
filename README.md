@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**cuikeyao/cuikeyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cuikeyao&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+![Trophy](https://github-profile-trophy.vercel.app/?username=cuikeyao)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=cuikeyao&theme=dracula)
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/cuikeyao/count.svg)
+
+
+
+
+
+
+
+
